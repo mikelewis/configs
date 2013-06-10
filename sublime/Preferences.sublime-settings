@@ -1,0 +1,15 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night.tmTheme",
+	"draw_minimap_border": true,
+	"font_face": "Mensch",
+	"font_size": 14.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"word_separators": "./\\()\"'-,.;<>@#$%^&*|+=[]{}`"
+}
