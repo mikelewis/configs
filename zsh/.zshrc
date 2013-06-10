@@ -79,6 +79,10 @@ get_git_prompt_info() {
 	echo $__CURRENT_GIT_BRANCH
 }
 
+function b(){
+	echo $(current_branch)
+}
+
 PROMPT=$'%n@%m:%{\e[0;37m%}%~%{\e[0;32m%}$(get_git_prompt_info)%{\e[0m%}$ '
 
 for file in ~/configs/zsh/machine_zsh_configs/*.zsh
