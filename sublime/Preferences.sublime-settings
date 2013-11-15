@@ -1,7 +1,7 @@
 {
 	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - Default/Tomorrow-Night.tmTheme",
+	"color_scheme": "Packages/TomorrowNight/Tomorrow-Night.tmTheme",
 	"draw_minimap_border": true,
 	"font_face": "Mensch",
 	"font_size": 14.0,
