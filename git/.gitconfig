@@ -1,6 +1,7 @@
 [user]
 	name = Mike Lewis
 	editor = /usr/bin/vim
+	email = ft.mikelewis@gmail.com
 [core]
 	editor = /usr/bin/vim
 [branch]
