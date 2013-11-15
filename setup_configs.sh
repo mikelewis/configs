@@ -2,6 +2,7 @@
 cd ~
 ln -sf ~/configs/zsh/.zshrc .zshrc
 ln -sf ~/configs/ack/.ackrc .ackrc
+ln -sf ~/configs/git/.gitconfig .gitconfig
 cd  ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User/
 ln -sf ~/configs/sublime/Preferences.sublime-settings Preferences.sublime-settings
 mkdir  ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/TomorrowNight
