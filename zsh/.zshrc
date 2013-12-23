@@ -14,7 +14,8 @@ ZSH_THEME="robbyrussell"
 alias postgres_start="pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log start"
 alias postgres_reload="pg_ctl -D /usr/local/var/postgres -l /usr/local/var/postgres/server.log reload"
 alias postgres_stop="pg_ctl -D /usr/local/var/postgres stop"
-EDITOR="stt"
+
+export EDITOR="/Applications/Sublime\ Text.app/Contents/SharedSupport/bin/subl --wait"
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
